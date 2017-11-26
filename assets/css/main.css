@@ -1,0 +1,86 @@
+
+body{
+	background-color: #F78E69;
+	font-family: 'Roboto', sans-serif;
+}
+#cabeza{
+	color: white;
+	padding: 3%;
+}
+.titulo{
+	margin-left:63%;
+	font-size: 250%;
+}
+ .nota{
+ 	margin-top: 2%;
+ 	margin-left: 80%;
+ 	font-size: 105%;
+ }
+ .imgCentral{
+   border-bottom: 3%;
+
+ }
+ .img1{
+ 	width: 100%;
+ 	border-bottom: 10%;
+ 	border-top: 5%;
+ }
+ .aboutPandas{
+ 	background-color: #ABE188; 
+ 	padding: 8%;
+ 	margin-top: 1%;
+ 	margin-bottom:1%;
+}
+ .about{
+  background-color: #F78E69;
+  color: white; 
+  width: 45%;
+  height: 30%;
+  margin-left: 30%;
+  padding: 2%;
+
+}
+.text{
+	font-size: 18px;
+	text-align: justify;
+}
+.title2{
+	text-align: center;
+	font-weight: bold;
+	padding: 2%;
+}
+.imgdos{
+	margin-bottom: 1%;
+}
+.img2{
+	width: 100%;
+}
+.galeria{
+	background-color: #ABE188; 
+	padding: 5%;
+}
+.imgs{
+	
+	margin-left:4%; 
+}
+.title3{
+	font-size: 250%;
+	font-weight: bolder;
+	color: white;
+	text-align: center;
+	/*margin-left: 28%;*/
+}
+.col-2{
+	border: 10px solid white;
+	margin: 3%;
+}
+.imgFinal{
+	width: 100%;
+	
+	padding-top: 1%;
+}
+.nota-final{
+padding: 3%;
+margin-left: 75%;
+color: white;
+}
